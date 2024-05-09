@@ -1,0 +1,1 @@
+run video.bat and let it do it's thing
